@@ -49,29 +49,22 @@ El rendimiento será exitoso cuando:
   * Color
   * Tipografía
   * Imágenes
-* En lenguaje de processing
-  * Expresiones y variables
-  * Lógica y condicionales
-  * Ciclos de control
-  * Funciones y eventos
-* Manejo de elementos geométricos y tipográficos
-  * Geometría 2D
-  * Geometría 3D
-  * Tipografía
-  * Web cam
-* Simulación física
+* Movimiento, Ruido y aleatoridad
+  * Aleatoriedad
+  * Ruido
+  * Oscilaciones
+* Cuerpos
+  * Transformaciones
+  * Formas
+* Vectores
   * Física en processing
   * Simulación
-* Construcción de objetos
-  * Conceptos básicos de objetos
-  * Construcción de objetos
-  * OOP
-* Conexiones serial con Arduino y otros dispositivos
-  * Comunicación serial
-  * Interactividad
-* Visualización de datos
-  * Lectura de datos
-  * Visualizaciones alternativas de datos
+* Interactividad
+  * Acción-reacción
+  * Computación tangible
+* Universo de datos
+  * Visualización
+  * Datos a través de formas
 
 ##Metodología y evaluación
 
