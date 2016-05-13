@@ -44,11 +44,11 @@ El rendimiento será exitoso cuando:
 ##Contenido
  	 	
 * Introducción a processing y visualizaciones
-  * Que es processing
-  * Programación y visualización
-  * Diseño generativo
-  * La interfaz de programación
-  * Los “Sketches”
+  * Los “Sketches” y el estilo de programación
+  * Formas
+  * Color
+  * Tipografía
+  * Imágenes
 * En lenguaje de processing
   * Expresiones y variables
   * Lógica y condicionales
