@@ -7,7 +7,7 @@ Prof. Tomás de Camino Beck, Ph.D.
 La computación en la última década se ha permeado y transformado la sociedad, tanto así, que las personas nuevamente ven la compuatciòn con lo cual algo construir y no solamente consumir.  Los lenguajes de programación también han evolucionado, y se han transformado en más que simplemente un lenguaje para construir software, sino como una herramienta de exploración y creación.  Processing,  nace en 1999, y desde entonces ha evolucionado como un lenguaje que permite programar desde una perspectiva de artes visuales y expresión de ideas.  
 
 ##Objetivo general
-Conocer y manejar los principios avanzados de programación en processing como herramienta para la generación de programas interactivos. 
+Conocer y manejar los principios avanzados de programación en processing como herramienta para la generación de programas interactivos, el prototipado de ideas y la generación de diseños.
 
 ##Objetivo específicos
 * Comprender los conceptos básicos de la lógica, el procedimiento y los objetos en processing.
