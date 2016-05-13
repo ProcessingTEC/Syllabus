@@ -1,0 +1,2 @@
+# syllabus
+Detalles del curso
