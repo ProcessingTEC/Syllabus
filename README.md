@@ -1,5 +1,5 @@
 #Programación Avanzada con Processing
-Prof. Dr. Tomás de Camino Beck
+Prof. Tomás de Camino Beck, Ph.D.
 
 
 ##Introducción
@@ -45,71 +45,71 @@ El rendimiento será exitoso cuando:
  	 	
 * Introducción a processing y visualizaciones
   * Que es processing
-Programación y visualización
-DIseo generativo
-La interfaz de programación
-Los “Sketches”
-En lenguaje de processing
-Expresiones y variables
-Lógica y condicionales
-Ciclos de control
-Funciones y eventos
-Manejo de elementos geométricos y tipográficos
-Geometría 2D
-Geometría 3D
-Tipografía
-Web cam
-Simulación física
-Física en processing
-Simulación
-Construcción de objetos
-Conceptos básicos de objetos
-COnstrucción de objetos
-OOP
-Conexiones serial con Arduino y otros dispositivos
-Comunicación serial
-Interactividad
-Visualización de datos
-Lectura de datos
-Visualizaciones alternativas de datos
+  * Programación y visualización
+  * Diseño generativo
+  * La interfaz de programación
+  * Los “Sketches”
+* En lenguaje de processing
+  * Expresiones y variables
+  * Lógica y condicionales
+  * Ciclos de control
+  * Funciones y eventos
+* Manejo de elementos geométricos y tipográficos
+  * Geometría 2D
+  * Geometría 3D
+  * Tipografía
+  * Web cam
+* Simulación física
+  * Física en processing
+  * Simulación
+* Construcción de objetos
+  * Conceptos básicos de objetos
+  * Construcción de objetos
+  * OOP
+* Conexiones serial con Arduino y otros dispositivos
+  * Comunicación serial
+  * Interactividad
+* Visualización de datos
+  * Lectura de datos
+  * Visualizaciones alternativas de datos
 
-Metodología y evaluación
+##Metodología y evaluación
 
 El curso es teórico práctico. Los estudiantes tendrán que estudiar y revisar videos, artículos y capítulos de libros antes de la clase. AL iniciar la clase se hará una introducción y discusión del material estudiado, la hora siguiente  los estudiantes deberán realizar un proyecto. Los 20 min finales se utilizarán para exponer el resultado de cada proyecto y la explicación del codigo. Se trabajarán en grupos de 2 personas.
 Tareas de programación
 
 Las tareas se asignarán de forma semanal.  Las tareas programadas se hacen de forma individual.  En las tareas se puede “Hackear” a otros (compañeros o cualquier otro código del internet), pero debe dar los créditos respectivos e indicar donde cambió el código, y cual es el paso innovador (que lo hacer diferente a código original). Las tareas se entregan a través de github.org con las indicaciones que se darán en clase.
 
-Proyecto
+##Proyecto
 
 El proyecto se desarrollará tanto en las últimas 2 clases. Las últimas dos sesiones se dedicarán a la presentación y evaluación de proyectos. El proyecto es individual, pero se fomentará la colaboración entre estudiantes. 
 
 Su proyecto final será evaluado por un número de factores, recuerde que todos los criterios son importantes, y que no se espera que tenga un producto perfecto y definitivo al final de la clase.  
 
 Se espera que el proyecto tenga :
-Un prototipo que demuestre el concepto (o demostración de sub-problemas… divide y conquista)
-Bajo la lógica de Agile, se desea un proyecto que funcione, más que algo bien documentado.
-Presentar en pseudo-código el funcionamiento general del código
-Que el proyecto tenga concepto y sea creativo (ideas originales, novedosas, etc)
-Que combine y utiliza código de forma ingeniosa.
-Que utilize todas las buenas prácticas de programación que se explicarán durante el desarrollo del curso.
-No se espera un código que sea necesariamente eficiente, sino que funcionen
+* Un prototipo que demuestre el concepto (o demostración de sub-problemas… divide y conquista)
+* Bajo la lógica de Agile, se desea un proyecto que funcione, más que algo bien documentado.
+* Presentar en pseudo-código el funcionamiento general del código
+* Que el proyecto tenga concepto y sea creativo (ideas originales, novedosas, etc)
+* Que combine y utiliza código de forma ingeniosa.
+* Que utilize todas las buenas prácticas de programación que se explicarán durante el desarrollo del curso.
+* No se espera un código que sea necesariamente eficiente, sino que funcionen
 
-Porcentajes
+##Porcentajes
 
-Tareas semanales 70% (7 en total)
-Proyecto Final 30%
+* Tareas semanales 70% (7 en total)
+* Proyecto Final 30%
 
-Bibliografía recomendada
+##Bibliografía recomendada
 
-Principales
+###Principales
 
 Casey Reas and Ben Fry, Getting Started with Processing. 2010, O'Reilly Media.
 
 Hartmut Bohnacker, Benedikt Gross, Julia Laub, and Claudius Lazzeroni. Generative Design.  2012, Princeton Architectural Press.
 
 
-Adicionales
+###Adicionales
 
 Daniel Shiffman. The Nature of Code: Simulating Natural Systems with Processing.  2012, (http://natureofcode.com)
 
