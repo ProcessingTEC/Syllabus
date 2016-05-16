@@ -53,7 +53,7 @@ El rendimiento será exitoso cuando:
   * Aleatoriedad
   * Ruido
   * Oscilaciones
-* Cuerpos
+* [Cuerpos](https://github.com/ProcessingTEC/Cuerpos)
   * Transformaciones
   * Formas
 * Vectores
