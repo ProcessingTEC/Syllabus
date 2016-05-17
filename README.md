@@ -55,6 +55,7 @@ El rendimiento será exitoso cuando:
   * Oscilaciones
 * [Cuerpos](https://github.com/ProcessingTEC/Cuerpos)
   * Transformaciones
+  * Tres dimensiones
   * Objetos
   * Recursividad
   * Agentes
