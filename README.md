@@ -59,7 +59,7 @@ El rendimiento será exitoso cuando:
   * Objetos
   * Recursividad
   * Agentes
-* Vectores
+* F;isica y Vectores
   * Física en processing
   * Simulación
 * Interactividad
