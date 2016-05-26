@@ -49,7 +49,7 @@ El rendimiento será exitoso cuando:
   * Color
   * Tipografía
   * Imágenes
-* Movimiento, Ruido y aleatoridad
+* Movimiento, Ruido y oscilación
   * Aleatoriedad
   * Ruido
   * Oscilaciones
