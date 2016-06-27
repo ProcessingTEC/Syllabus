@@ -62,7 +62,7 @@ El rendimiento será exitoso cuando:
 * [Física y Vectores](https://github.com/ProcessingTEC/Fisica-y-Vectores)
   * Física en processing
   * Simulación
-* Interactividad
+* [Interactividad](https://github.com/ProcessingTEC/Interactividad)
   * Acción-reacción
   * Computación tangible
 * [Universo de datos](https://github.com/ProcessingTEC/Datos)
